@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">A performant, safe, and multifunctional Pokemeow Selfbot built on top of <a href="[http://electron.atom.io](https://github.com/fuwu99/primrose-pokemeow)" target="_blank">Primrose</a>.</h4>
+<h4 align="center">A performant, safe, and multifunctional Pokemeow Selfbot built on top of <a href="https://github.com/fuwu99/primrose-pokemeow" target="_blank">Primrose</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
