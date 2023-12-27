@@ -2,7 +2,6 @@
   <br>
   <a href="https://github.com/fuwu99/yugen"><img src="https://github.com/fuwu99/yugen/blob/main/assets/yugen.png" alt="Yugen Selfbot" width="1000"></a>
   <br>
-  [yūgen]
   <br>
 </h1>
 
