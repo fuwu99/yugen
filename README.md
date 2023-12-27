@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="[http://www.amitmerchant.com/electron-markdownify](https://github.com/fuwu99/yugen)"><img src="[https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png](https://github.com/fuwu99/yugen/raw/main/assets/_title.gif)" alt="Markdownify" width="200"></a>
+  <a href="[https://github.com/fuwu99/yugen]"><img src="[https://github.com/fuwu99/yugen/blob/main/assets/_title.gif]" alt="Yugen Selfbot" width="200"></a>
   <br>
   [yūgen]
   <br>
