@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/fuwu99/yugen"><img src="https://github.com/fuwu99/yugen/blob/main/assets/_title.png" alt="Yugen Selfbot" width="1000"></a>
+  <a href="https://github.com/fuwu99/yugen"><img src="" alt="Yugen Selfbot" width="1000"></a>
   <br>
   [yūgen]
   <br>
