@@ -60,7 +60,7 @@
   - WebUI (upgrade)
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
-  - 100% accurate battle DMG calculation, taking `STAB, A, D, held item, type` into account.
+  - 100% accurate battle DMG calculation, taking `STAB, A, D, power, held item, type` into account.
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
