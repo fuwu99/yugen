@@ -33,7 +33,7 @@
 
 * This is a selfbot project for a discord bot called Pokemeow!
 * This is a **paid** product, and there's no demo!
-* Reimagined from the ashes of [Primrose](https://github.com/fuwu99/primrose-pokemeow).
+* Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
