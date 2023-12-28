@@ -29,7 +29,7 @@
   <a href="#faq">FAQ</a>
 </p>
 
-![Banner1](https://github.com/fuwu99/yugen/blob/main/assets/yugen.png "Banner")
+![Banner1](https://github.com/fuwu99/yugen/blob/main/assets/yugen.png)
 
 ## Main Features
 * Automates everything a Pokemeow player does!
