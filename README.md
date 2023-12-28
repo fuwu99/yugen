@@ -61,10 +61,11 @@
   - Battle AI is now part of `battle`
   - Multi upgrade is now free!
 * 📡 Full code revamp & game-changing features added!
-  - WebUI (upgrade)
+  - WebUI 🖥️ (upgrade) 
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
   - 100% accurate battle DMG calculation, taking `STAB, A, D, power, held item, type` into account.
+  - User commands rework!
   - Inactivity detector & better error handling!
 
 ## Pricings
