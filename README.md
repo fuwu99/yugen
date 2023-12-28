@@ -29,7 +29,7 @@
   <a href="#faq">FAQ</a>
 </p>
 
-<p><br></p>
+<p align="center">♡<br></p>
 
 * This is a selfbot project for a discord bot called Pokemeow!
 * This is a **paid** product, and there's no demo!
