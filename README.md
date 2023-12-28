@@ -29,7 +29,7 @@
   <a href="#faq">FAQ</a>
 </p>
 
-<p><br><br><br><br><br></p>
+<p><br><br><br></p>
 
 ![Banner1](https://github.com/fuwu99/yugen/blob/main/assets/yugen.png)
 
