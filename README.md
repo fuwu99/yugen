@@ -56,6 +56,10 @@
 * ✨ Previously premium features are now integrated into main ones!
   - Battle AI is now part of ``battle``
   - Multi upgrade is now free!
+* 💠 Full code revamp & game-changing features added!
+  - WebUI (upgrade)
+  - Queue system -> Multiple modes at once ``(/pokemon, /fish spawn, /battle)``
+  - Fully functional `egg / quest claim` handler!
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
