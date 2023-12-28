@@ -34,32 +34,33 @@
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
 * 🕷️ Automates everything a Pokemeow player does!
-  - Hunting ``(/pokemon)``
-  - Fishing ``(/fish spawn)``
-  - Battling ``(/battle)``
-  - Explore ``(/explore)``
-  - Swapping ``(/swap)``
-  - Purchase balls ``(/shop buy)``
-  - Automatic release locking ``(/release lock)``
-  - Event tickets ``(/event buy)``
-  - Checklist tasks ``(/daily, /hunt, /quest, /catchbot, /swap)``
-  - Player tasks ``(/egg, /lootbox, /grazz, /repel, /release duplicate)``
-  - Research items exchange ``(/research exchange)``
+  - Hunting `(/pokemon)`
+  - Fishing `(/fish spawn)`
+  - Battling `(/battle)`
+  - Explore `(/explore)`
+  - Swapping `(/swap)`
+  - Purchase balls `(/shop buy)`
+  - Automatic release locking `(/release lock)`
+  - Event tickets `(/event buy)`
+  - Checklist tasks `(/daily, /hunt, /quest, /catchbot, /swap)`
+  - Player tasks `(/egg, /lootbox, /grazz, /repel, /release duplicate)`
+  - Research items exchange `(/research exchange)`
 * 🥋 Accurate human imitation!
   - Custom browser user-agent!
   - Completely random interaction times
   - Coffee breaks ☕ with random durations
-  - Random commands ``(/pc, /stats, ...)``
+  - Random commands `(/pc, /stats, ...)`
 * ⌛ Solves captchas automatically with ~99% accuracy & retries if fail!
 * 🔧 Extensive & individualized configuration system!
 * 🧈 Buttery-smooth execution & easy installation
 * ✨ Previously premium features are now integrated into main ones!
-  - Battle AI is now part of ``battle``
+  - Battle AI is now part of `battle`
   - Multi upgrade is now free!
 * 💠 Full code revamp & game-changing features added!
   - WebUI (upgrade)
-  - Queue system -> Multiple modes at once ``(/pokemon, /fish spawn, /battle)``
+  - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
+  - 100% accurate battle DMG calculation, taking `STAB, A, D, held item, type` into account.
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
