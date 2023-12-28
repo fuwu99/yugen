@@ -25,7 +25,7 @@
   <a href="#main-features">Features</a> •
   <a href="#pricings">Pricings</a> •
   <a href="#wiki">Wiki</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#changelog">Changelog</a> •
   <a href="#faq">FAQ</a>
 </p>
 
@@ -35,6 +35,6 @@
 
 ## Wiki
 
-## Credits
+## Changelog
 
-# FAQ
+## FAQ
