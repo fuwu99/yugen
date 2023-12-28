@@ -9,7 +9,6 @@
 <h4 align="center">Pokemeow autogrinder built on top of <a href="https://github.com/fuwu99/primrose-pokemeow" target="_blank">Primrose</a>.</h4>
 <h4 align="center"><strong>Advanced - Safe - Performant</strong></h4>
 
-
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
     <img src="https://badge.fury.io/js/electron-markdownify.svg"
