@@ -34,6 +34,7 @@
   - Hunting (/pokemon)
   - Fishing (/fish spawn)
   - Battling (/battle)
+  - Explore (/explore)
   - Swapping (/swap)
   - Purchase balls (/shop buy)
   - Automatic release locking (/release lock)
