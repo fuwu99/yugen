@@ -32,7 +32,7 @@
 <p><br></p>
 
 ## Main Features
-![Banner1](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
+![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
 * Automates everything a Pokemeow player does!
   - Hunting (/pokemon)
   - Fishing (/fish spawn)
@@ -54,9 +54,13 @@
 * Buttery-smooth execution & easy installation
 
 ## Pricings
+![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
 
 ## Wiki
+![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
 
 ## Changelog
+![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/changelogs.png)
 
 ## FAQ
+![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/faqs.png)
