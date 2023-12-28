@@ -24,8 +24,8 @@
 <p align="center">
   <a href="#main-features">Features</a> •
   <a href="#pricings">Pricings</a> •
-  <a href="#wiki">Wiki</a> •
-  <a href="#changelog">Changelog</a> •
+  <a href="#selfbot-wiki">Wiki</a> •
+  <a href="#changelogs">Changelog</a> •
   <a href="#faq">FAQ</a>
 </p>
 
@@ -56,10 +56,10 @@
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
 
-## Wiki
+## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
 
-## Changelog
+## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/changelogs.png)
 
 ## FAQ
