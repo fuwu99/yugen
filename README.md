@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">Advanced - Safe - Performant</h4>
+<h4 align="center">[ Advanced - Safe - Performant ]</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
