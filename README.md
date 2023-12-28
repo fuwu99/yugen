@@ -22,10 +22,19 @@
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#main-features">Features</a> •
+  <a href="#pricings">Pricings</a> •
+  <a href="#wiki">Wiki</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#faq">FAQ</a>
 </p>
+
+## Main Features
+
+## Pricings
+
+## Wiki
+
+## Credits
+
+# FAQ
