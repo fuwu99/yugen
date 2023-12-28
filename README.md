@@ -3,10 +3,10 @@
   <a href="https://github.com/fuwu99/yugen"><img src="https://github.com/fuwu99/yugen/blob/main/assets/logo.png" alt="Yugen Selfbot" width="175"></a>
   <br> <br>
   [ Yūgen Selfbot ]
+  <h4 align="center">Pokemeow autogrinder built on top of <a href="https://github.com/fuwu99/primrose-pokemeow" target="_blank">Primrose</a>.</h4>
   <br>
 </h1>
 
-<h4 align="center">Pokemeow autogrinder built on top of <a href="https://github.com/fuwu99/primrose-pokemeow" target="_blank">Primrose</a>.</h4>
 <h4 align="center">Advanced - Safe - Performant</h4>
 
 <p align="center">
