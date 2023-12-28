@@ -22,10 +22,10 @@
 </p>
 
 <p align="center">
-  <a href="#main-features">Features</a> ♡
-  <a href="#pricings">Pricings</a> ♡
-  <a href="#selfbot-wiki">Wiki</a> ♡
-  <a href="#changelogs">Changelog</a> ♡
+  <a href="#main-features">Features</a> •
+  <a href="#pricings">Pricings</a> •
+  <a href="#selfbot-wiki">Wiki</a> •
+  <a href="#changelogs">Changelog</a> •
   <a href="#faq">FAQ</a>
 </p>
 
