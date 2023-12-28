@@ -33,7 +33,7 @@
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
-* Automates everything a Pokemeow player does!
+* 🕷️ Automates everything a Pokemeow player does!
   - Hunting ``(/pokemon)``
   - Fishing ``(/fish spawn)``
   - Battling ``(/battle)``
@@ -45,15 +45,15 @@
   - Checklist tasks ``(/daily, /hunt, /quest, /catchbot, /swap)``
   - Player tasks ``(/egg, /lootbox, /grazz, /repel, /release duplicate)``
   - Research items exchange ``(/research exchange)``
-* Accurate human imitation!
+* 🥋 Accurate human imitation!
   - Custom browser user-agent!
   - Completely random interaction times
   - Coffee breaks ☕ with random durations
   - Random commands ``(/pc, /stats, ...)``
-* Solves captchas automatically with ~99% accuracy & retries if fail!
-* Extensive & individualized configuration system!
-* Buttery-smooth execution & easy installation
-* Previously premium features are now integrated into main ones!
+* ⌛ Solves captchas automatically with ~99% accuracy & retries if fail!
+* 🔧 Extensive & individualized configuration system!
+* 🧈 Buttery-smooth execution & easy installation
+* ✨ Previously premium features are now integrated into main ones!
   - Battle AI is now part of ``battle``
   - Multi upgrade is now free!
 
