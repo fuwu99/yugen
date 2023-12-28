@@ -34,7 +34,7 @@
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
 * Automates everything a Pokemeow player does!
-  - Hunting (/pokemon)
+  - Hunting ``(/pokemon)``
   - Fishing (/fish spawn)
   - Battling (/battle)
   - Explore (/explore)
