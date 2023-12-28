@@ -30,7 +30,7 @@
 </p>
 
 ## Main Features
-* Automates everything a normal Pokemeow player does!
+* Automates everything a Pokemeow player does!
   - Hunting (/pokemon)
   - Fishing (/fish spawn)
   - Battling (/battle)
@@ -42,6 +42,13 @@
   - Checklist tasks (/daily, /hunt, /quest, /catchbot, /swap)
   - Player tasks (/egg, /lootbox, /grazz, /repel, /release duplicate)
   - Research items exchange (/research exchange)
+* Accurate human imitation!
+  - Completely random interaction times
+  - Coffee breaks ☕ with random durations
+  - Decoys
+* Solves captchas automatically with ~99% accuracy & retries if fail!
+* Extensive & individualized configuration system!
+* Buttery-smooth execution & easy installation
 
 ## Pricings
 
