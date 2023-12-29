@@ -100,11 +100,7 @@
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
-```
- == NOTES == 
- - i forget stuff, so this might not be all the changes that happened
- - Between v1.1.0 and 1.1.8, I added so many stuff i cant remember the specific changes, so I dumped all into 1.1.8
- 
+``` 
  == TO DO ==
  * General
  - Add cash transferring
