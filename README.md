@@ -8,16 +8,9 @@
 <h4 align="center">[ Advanced - Safe - Performant ]</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  <a href='https://github.com/fuwu99/yugen' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Yugen-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=black'/></a>
+  <a href='https://github.com/fuwu99/' target="_blank"><img alt='Github' src='https://img.shields.io/badge/fuwu99-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black'/></a>
+  <a href='https://www.python.org/' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black'/></a>
   </a>
 </p>
 
@@ -97,6 +90,13 @@
   
 ## FAQ
 ![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
+* Is this bot safe?
+  - It absolutely is! It comes with almost zero ban risk involved, except when you grind in public servers, or you do alot of catches, then people will get suspicious.
+  - You should take responsibility while using the bot, if you don't want to get banned. On the other hand, our service has been trusted by dozens of clients, so you can count on us.
+* How does the active discount work?
+  - Referral code: if you have someone use your referral code to purchase, you get a discount on 3 different levels: 1 refer, 3 refers and 5 refers.
+  - Stack: for example if you certify for two 5% discounts, you get a total of 5% + 5% = 10% discount of your purchases.
+* 
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
