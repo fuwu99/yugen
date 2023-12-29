@@ -64,7 +64,10 @@
   - WebUI 🖥️ (upgrade) 
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
-  - Battle revamp: autobattler (AI), 100% accurate battle DMG calculation, battle scripts for special npcs (event).
+  - Battle revamp:
+    * autobattler (AI),
+    * 100% accurate battle DMG calculation,
+    * battle script system for special npcs (event).
   - User commands rework!
   - Inactivity detector & better error handling!
 
