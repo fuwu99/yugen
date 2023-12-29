@@ -76,7 +76,7 @@
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
 * Captcha solver is now readily included in every purchase!
-* Below are the current subscription tiers!
+* Below are the current subscription tiers!\n
 |               | Hunt | Fish | Battle | Explore | Swap | WebUI/GUI | Autobuy | ;cl & tasks | Research |
 |---------------|------|------|--------|---------|------|-----------|---------|-------------|----------|
 | Apprentice    | ✔️   | ❌  | ❌    | ❌      | ❌   | ❌       | ✔️      | ✔️         | ✔️      |
