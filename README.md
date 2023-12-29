@@ -25,8 +25,8 @@
   <a href="#main-features">Features</a> •
   <a href="#pricings">Pricings</a> •
   <a href="#selfbot-wiki">Wiki</a> •
-  <a href="#changelogs">Changelog</a> •
-  <a href="#faq">FAQ</a>
+  <a href="#faq">FAQ</a> •
+  <a href="#changelogs">Changelog</a>
 </p>
 
 <p align="center">♡<br></p>
@@ -94,13 +94,60 @@
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
 * The WebUI upgrade comes with an in-built wiki!
 * The selfbot wiki is public for everyone to see! [Wiki](https://github.com/fuwu99/yugen/wiki)
+  
+## FAQ
+![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
 ```
-Changelogs
+ == NOTES == 
+ - i forget stuff, so this might not be all the changes that happened
+ - Between v1.1.0 and 1.1.8, I added so many stuff i cant remember the specific changes, so I dumped all into 1.1.8
+ 
+ == TO DO ==
+ * General
+ - Add cash transferring
+ - Add hunt tracker
+ - Fix webhooks
+ - Fix & clean up startup cog
+ * Hunt
+ - Fix custom pokemon
+ * Battle
+ - Add cache update for battle counts and wins
+
+ == UPDATE 1.1.8 ==
+ - Much faster program startup!
+ * General
+ - Added Streamer mode
+ - Added option to disable pinning
+ - Added console window title changer
+ - Added asyncio queue getter
+ - Added hard-coded user-agent instead of API fetching
+ - Added customizability for bot durations
+ - Fixed new account creation
+ - Fixed RAM & performance issues
+ - Fixed pinning permission error
+ - Fixed user commands
+ - Fixed command locks
+ - Removed redundant util files
+ * Captcha
+ - Added immediate command enqueue after captcha
+ - Added reconnect fallback captcha answer
+ - Added captcha answer send error handlers
+ - Removed suppressor 'with' clauses
+ * Hunt
+ - Added extra quest claiming for "completed the quest"
+ - Fixed attribute error for held_item
+ - Fixed hanging problem in [176, 80]
+ * Fish
+ - Added extra quest claiming for "completed the quest"
+ * Battle
+ - Added scripting system to turn your most complex battle strats into action! (tested on xmas_lance)
+ - Added type convert for npc id (forgot :sobs:)
+ - Added data for aegislash forms
+ - Fixed critical damage multiplier 2 -> 1.5
 ```
 > Full changelog available @ [versions.txt](https://github.com/fuwu99/yugen/blob/main/versions.txt)
 
-## FAQ
-![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
+
