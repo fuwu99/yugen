@@ -75,8 +75,6 @@
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
-* All bot purchases will include captcha solver!
-* Here's what you get for each <br>
 | ff  | ff  |   |   |   |   |   |  ff |   |   |
 |---|---|---|---|---|---|---|---|---|---|
 |   |   |   |   |   |   |   |   |   |   |
