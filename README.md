@@ -75,17 +75,18 @@
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
-| ff  | ff  |   |   |   |   |   |  ff |   |   |
-|---|---|---|---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   |   |   |
+|               | Hunt | Fish | Battle | Explore | Swap | WebUI/GUI | Autobuy | ;cl & tasks | Research |
+|---------------|------|------|--------|---------|------|-----------|---------|-------------|----------|
+| Apprentice    | ✔️   | ❌    | ❌      | ❌       | ❌    | ❌         | ✔️      | ✔️          | ✔️       |
+| Master        | ✔️   | ✔️   | ❌      | ❌       | ❌    | ❌         | ✔️      | ✔️          | ✔️       |
+| Champion      | ✔️   | ✔️   | ✔️     | ❌       | ❌    | ✔️        | ✔️      | ✔️          | ✔️       |
+| Completionist | ✔️   | ✔️   | ✔️     | ✔️      | ✔️   | ✔️        | ✔️      | ✔️          | ✔️       |
+|               |      |      |        |         |      |           |         |             |          |
+|               |      |      |        |         |      |           |         |             |          |
+|               |      |      |        |         |      |           |         |             |          |
+|               |      |      |        |         |      |           |         |             |          |
+|               |      |      |        |         |      |           |         |             |          |
+
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
