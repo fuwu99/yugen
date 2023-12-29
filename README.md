@@ -79,7 +79,7 @@
 * Here's what you get for each 
 | Hunt | Fish | Battle | Explore | Swap |
 |---|---|---|---|---|
-| hi<br> |  d |  f |   |   |
+| hi |  d |  f |   |   |
 | b |  e |   |   |   |
 | c |  r |   |   |   |
 
