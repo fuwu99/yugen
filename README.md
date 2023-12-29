@@ -85,7 +85,7 @@
 | Champion      | ✔️   | ✔️  | ✔️    | ❌      | ❌   | ✔️       | ✔️      | ✔️         | ✔️      |
 | Completionist | ✔️   | ✔️  | ✔️    | ✔️      | ✔️   | ✔️       | ✔️      | ✔️         | ✔️      |
 
-
+![prices](https://github.com/fuwu99/yugen/blob/main/assets/prices.png)
 
 
 ## Selfbot Wiki
