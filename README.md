@@ -57,7 +57,7 @@
 * ⌛ Solves captchas automatically with ~99% accuracy & retries if fail!
 * 🔧 Extensive & individualized configuration system!
 * 🧈 Buttery-smooth execution & easy installation
-* Sends webhooks & windows
+* 🔔 Sends webhooks & windows notifications to let you know about events!
 * ✨ Previously premium features are now integrated into main ones!
   - Battle AI is now part of `battle`!
   - Multi upgrade is now free!
