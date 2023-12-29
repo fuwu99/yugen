@@ -77,11 +77,17 @@
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
 * All bot purchases will include captcha solver!
 * Here's what you get for each <br>
-| Hunt | Fish | Battle | Explore | Swap |
-|---|---|---|---|---|
-| hi   |  d   |  f     |         |      |
-| b    |  e   |        |         |      |
-| c    |  r   |        |         |      |
+| ff  | ff  |   |   |   |   |   |  ff |   |   |
+|---|---|---|---|---|---|---|---|---|---|
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |   |   |
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
