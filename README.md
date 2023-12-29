@@ -85,8 +85,8 @@
 | Champion      | ✔️   | ✔️  | ✔️    | ❌      | ❌   | ✔️       | ✔️      | ✔️         | ✔️      |
 | Completionist | ✔️   | ✔️  | ✔️    | ✔️      | ✔️   | ✔️       | ✔️      | ✔️         | ✔️      |
 
+* Current prices!
 ![prices](https://github.com/fuwu99/yugen/blob/main/assets/prices.png)
-
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
