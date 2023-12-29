@@ -68,17 +68,20 @@
     * Autobattler (AI).
     * Blazing-fast API calls!
     * 100% accurate battle DMG calculation.
-    * Battle script system for special npcs (event).
+    * Automatic league progress completer!
+    * Battle script system for special event NPCs!
   - User commands rework!
   - Inactivity detector & better error handling!
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
+* All bot purchases will include captcha solver!
+* Here's what you get for each 
 | Hunt | Fish | Battle | Explore | Swap |
 |---|---|---|---|---|
-| a  |  d |  f |   |   |
-|  b |  e |   |   |   |
-|  c |  r |   |   |   |
+| hi<br> |  d |  f |   |   |
+| b |  e |   |   |   |
+| c |  r |   |   |   |
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
