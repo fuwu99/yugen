@@ -75,9 +75,6 @@
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/banner/pricings.png)
-* Captcha solver is now readily included in every purchase!
-* Current subscription tiers!
-
 ![prices](https://github.com/fuwu99/yugen/blob/main/assets/prices.png)
 
 |               | Hunt | Fish | Battle | Explore | Swap | WebUI/GUI | Autobuy | ;cl & tasks | Research |
@@ -87,6 +84,7 @@
 | Champion      | ✔️   | ✔️  | ✔️    | ❌      | ❌   | ✔️       | ✔️      | ✔️         | ✔️      |
 | Completionist | ✔️   | ✔️  | ✔️    | ✔️      | ✔️   | ✔️       | ✔️      | ✔️         | ✔️      |
 
+> Captcha solver is now readily included in every purchase!
 * Current discounts! (they STACK!) (Explained in [FAQs](#faq))
   - [ACTIVE] Yugen birthday 🎉 (5% off)
   - [ACTIVE] Referral codes (5% | 7.5% | 10% off) 
