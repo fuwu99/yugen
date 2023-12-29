@@ -76,7 +76,7 @@
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/banner/pricings.png)
 * Captcha solver is now readily included in every purchase!
-* Below are the current subscription tiers!<br/>
+* Current subscription tiers!
 
 |               | Hunt | Fish | Battle | Explore | Swap | WebUI/GUI | Autobuy | ;cl & tasks | Research |
 |---------------|------|------|--------|---------|------|-----------|---------|-------------|----------|
@@ -88,6 +88,10 @@
 * Current prices!
 ![prices](https://github.com/fuwu99/yugen/blob/main/assets/prices.png)
 
+* Current discounts! (they STACK!) (Explained in [FAQs](#faq))
+  - [ACTIVE] Yugen birthday 🎉 (5% off)
+  - [ACTIVE] Referral codes (5% | 7.5% | 10% off) 
+
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
 * The WebUI upgrade comes with an in-built wiki!
@@ -95,6 +99,7 @@
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
+
 
 ## FAQ
 ![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
