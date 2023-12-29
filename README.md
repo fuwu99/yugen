@@ -147,6 +147,8 @@
  - Added type convert for npc id (forgot :sobs:)
  - Added data for aegislash forms
  - Fixed critical damage multiplier 2 -> 1.5
+
+ . . .
 ```
 > Full changelog available @ [versions.txt](https://github.com/fuwu99/yugen/blob/main/versions.txt)
 
