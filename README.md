@@ -36,7 +36,7 @@
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
 
 ## Main Features
-![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/main-features.png)
+![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
 * 🕷️ Automates everything a Pokemeow player does!
   - Hunting `(/pokemon)`
   - Fishing `(/fish spawn)`
@@ -74,7 +74,7 @@
   - Inactivity detector & better error handling!
 
 ## Pricings
-![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
+![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/banner/pricings.png)
 * Captcha solver is now readily included in every purchase!
 * Below are the current subscription tiers!<br/>
 
@@ -89,10 +89,10 @@
 
 
 ## Selfbot Wiki
-![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
+![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
 
 ## Changelogs
-![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/changelogs.png)
+![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
 
 ## FAQ
-![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/faqs.png)
+![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
