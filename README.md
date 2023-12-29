@@ -90,7 +90,8 @@
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
-The selfbot wiki is here! [Wiki](https://github.com/fuwu99/yugen/wiki)
+* The WebUI upgrade comes with an in-built wiki!
+* The selfbot wiki is public for everyone to see! [Wiki](https://github.com/fuwu99/yugen/wiki)
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
