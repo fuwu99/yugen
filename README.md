@@ -75,17 +75,15 @@
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/pricings.png)
+* Captcha solver is now readily included in every purchase!
+* 
 |               | Hunt | Fish | Battle | Explore | Swap | WebUI/GUI | Autobuy | ;cl & tasks | Research |
 |---------------|------|------|--------|---------|------|-----------|---------|-------------|----------|
-| Apprentice    | ✔️   | ❌    | ❌      | ❌       | ❌    | ❌         | ✔️      | ✔️          | ✔️       |
-| Master        | ✔️   | ✔️   | ❌      | ❌       | ❌    | ❌         | ✔️      | ✔️          | ✔️       |
-| Champion      | ✔️   | ✔️   | ✔️     | ❌       | ❌    | ✔️        | ✔️      | ✔️          | ✔️       |
-| Completionist | ✔️   | ✔️   | ✔️     | ✔️      | ✔️   | ✔️        | ✔️      | ✔️          | ✔️       |
-|               |      |      |        |         |      |           |         |             |          |
-|               |      |      |        |         |      |           |         |             |          |
-|               |      |      |        |         |      |           |         |             |          |
-|               |      |      |        |         |      |           |         |             |          |
-|               |      |      |        |         |      |           |         |             |          |
+| Apprentice    | ✔️   | ❌  | ❌    | ❌      | ❌   | ❌       | ✔️      | ✔️         | ✔️      |
+| Master        | ✔️   | ✔️  | ❌    | ❌      | ❌   | ❌       | ✔️      | ✔️         | ✔️      |
+| Champion      | ✔️   | ✔️  | ✔️    | ❌      | ❌   | ✔️       | ✔️      | ✔️         | ✔️      |
+| Completionist | ✔️   | ✔️  | ✔️    | ✔️      | ✔️   | ✔️       | ✔️      | ✔️         | ✔️      |
+
 
 
 ## Selfbot Wiki
