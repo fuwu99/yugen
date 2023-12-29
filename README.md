@@ -79,9 +79,9 @@
 * Here's what you get for each 
 | Hunt | Fish | Battle | Explore | Swap |
 |---|---|---|---|---|
-| hi |  d |  f |   |   |
-| b  |  e |    |   |   |
-| c  |  r |    |   |   |
+| hi   |  d   |  f     |         |      |
+| b    |  e   |        |         |      |
+| c    |  r   |        |         |      |
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/selfbot-wiki.png)
