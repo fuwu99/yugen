@@ -58,13 +58,13 @@
 * 🔧 Extensive & individualized configuration system!
 * 🧈 Buttery-smooth execution & easy installation
 * ✨ Previously premium features are now integrated into main ones!
-  - Battle AI is now part of `battle`
+  - Battle AI is now part of `battle`!
   - Multi upgrade is now free!
 * 📡 Full code revamp & game-changing features added!
   - WebUI 🖥️ (upgrade) 
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
-  - 100% accurate battle DMG calculation, taking `STAB, A, D, power, held item, type` into account.
+  - Battle revamp: autobattler (AI), 100% accurate battle DMG calculation, battle scripts for special npcs (event).
   - User commands rework!
   - Inactivity detector & better error handling!
 
