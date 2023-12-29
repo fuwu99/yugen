@@ -100,6 +100,7 @@
 ```
 Changelogs
 ```
+> Full changelog available @ [versions.txt](https://github.com/fuwu99/yugen/blob/main/versions.txt)
 
 ## FAQ
 ![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
