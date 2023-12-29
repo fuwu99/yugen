@@ -86,8 +86,8 @@
 
 > Note: Captcha solver is now readily included in every purchase!
 * Current discounts! (they STACK!) (Explained in [FAQs](#faq))
-  - [ACTIVE] Yugen birthday 🎉 (5% off)
-  - [ACTIVE] Referral codes (5% | 7.5% | 10% off) 
+  - `[ACTIVE]` Yugen birthday 🎉 (5% off)
+  - `[ACTIVE]` Referral codes (5% | 7.5% | 10% off) 
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
@@ -96,7 +96,9 @@
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
-
+```
+Changelogs
+```
 
 ## FAQ
 ![banner-faqs](https://github.com/fuwu99/yugen/blob/main/assets/banner/faqs.png)
