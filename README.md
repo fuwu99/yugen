@@ -97,7 +97,6 @@
 * How does the active discount work?
   - Referral code: if you have someone use your referral code to purchase, you get a discount on 3 different levels: 1 refer, 3 refers and 5 refers.
   - Stack: for example if you certify for two 5% discounts, you get a total of 5% + 5% = 10% discount of your purchases.
-* 
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
