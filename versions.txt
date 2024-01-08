@@ -6,12 +6,28 @@
  * General
  - Add cash transferring
  - Add hunt tracker
- - Fix webhooks
  - Fix & clean up startup cog
- * Hunt
- - Fix custom pokemon
  * Battle
  - Add cache update for battle counts and wins
+
+ == UPDATE 1.1.9 ==
+ * General
+ - Added better database
+ - Added force nq
+ - Fixed webhook
+ - Fixed all toasts & webhook
+ - Fixed startup sometimes stop
+ * Captcha
+ - Added small captcha modifications
+ - Added optional --unsafe for captcha
+ * Hunt
+ - Fixed custom pokemon
+ * Fish
+ - Added decoys for fish
+ * Battle
+ - Added better database compat for caching
+ - Fixed unspecified script scenario
+ - Fixed name filter for X, Y mega forms
 
  == UPDATE 1.1.8 ==
  - Much faster program startup!
