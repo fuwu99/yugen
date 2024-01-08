@@ -105,44 +105,28 @@
  * General
  - Add cash transferring
  - Add hunt tracker
- - Fix webhooks
  - Fix & clean up startup cog
- * Hunt
- - Fix custom pokemon
  * Battle
  - Add cache update for battle counts and wins
 
- == UPDATE 1.1.8 ==
- - Much faster program startup!
+ == UPDATE 1.1.9 ==
  * General
- - Added Streamer mode
- - Added option to disable pinning
- - Added console window title changer
- - Added asyncio queue getter
- - Added hard-coded user-agent instead of API fetching
- - Added customizability for bot durations
- - Fixed new account creation
- - Fixed RAM & performance issues
- - Fixed pinning permission error
- - Fixed user commands
- - Fixed command locks
- - Removed redundant util files
+ - Added better database
+ - Added force nq
+ - Fixed webhook
+ - Fixed all toasts & webhook
+ - Fixed startup sometimes stop
  * Captcha
- - Added immediate command enqueue after captcha
- - Added reconnect fallback captcha answer
- - Added captcha answer send error handlers
- - Removed suppressor 'with' clauses
+ - Added small captcha modifications
+ - Added optional --unsafe for captcha
  * Hunt
- - Added extra quest claiming for "completed the quest"
- - Fixed attribute error for held_item
- - Fixed hanging problem in [176, 80]
+ - Fixed custom pokemon
  * Fish
- - Added extra quest claiming for "completed the quest"
+ - Added decoys for fish
  * Battle
- - Added scripting system to turn your most complex battle strats into action! (tested on xmas_lance)
- - Added type convert for npc id (forgot :sobs:)
- - Added data for aegislash forms
- - Fixed critical damage multiplier 2 -> 1.5
+ - Added better database compat for caching
+ - Fixed unspecified script scenario
+ - Fixed name filter for X, Y mega forms
 
  . . .
 ```
