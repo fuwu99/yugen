@@ -24,7 +24,7 @@
 
 <p align="center">♡<br></p>
 
-* This is a selfbot project for a discord bot called Pokemeow!
+* This is a selfbot project for a discord bot called Pokemeow, made in JS!
 * This is a **paid** product, and there's no demo!
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
 
@@ -66,6 +66,7 @@
     * Battle script system for special event NPCs!
   - User commands rework!
   - Inactivity detector & better error handling!
+  - [NEW] Anti-crasher
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/banner/pricings.png)
