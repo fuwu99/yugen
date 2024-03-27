@@ -104,11 +104,6 @@
 ``` 
  == TO DO ==
  * General
- - Add cash transferring
- - Add hunt tracker
- - Fix & clean up startup cog
- * Battle
- - Add cache update for battle counts and wins
 
  == UPDATE 1.1.9 ==
  * General
