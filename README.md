@@ -27,6 +27,7 @@
 * This is a selfbot project for a discord bot called Pokemeow, made in JS!
 * This is a **paid** product, and there's no demo!
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
+* Status: 🟢 Working!
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
@@ -101,31 +102,119 @@
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
-``` 
- == TO DO ==
- * General
+# Bot Features List
+- Updated: `23/3/2024`
+- Version: `JS - 1.5.5`
 
- == UPDATE 1.1.9 ==
- * General
- - Added better database
- - Added force nq
- - Fixed webhook
- - Fixed all toasts & webhook
- - Fixed startup sometimes stop
- * Captcha
- - Added small captcha modifications
- - Added optional --unsafe for captcha
- * Hunt
- - Fixed custom pokemon
- * Fish
- - Added decoys for fish
- * Battle
- - Added better database compat for caching
- - Fixed unspecified script scenario
- - Fixed name filter for X, Y mega forms
+## General :ferris_wheel: 
+- Modes: `captcha` `hunt` `fish` `battle` `explore` `swap` 
+- Multiple modes **at once**
+- Multiple accounts **at once**
+- **Profiled bot accounts** w/ different settings 
+- **Grouped accounts** to run multiple with a keyword
+- :strawberry: `Decoys` - random commands. 
+> Toggleable & custom `chance` `weight`s with command variation & support for `18` common commands
+- :coffee:  `Breaks` - random breaks. 
+> Toggleable & custom `chance` `weight`s `duration`s with random offsets
+- :notepad_spiral: `Quest reroll` - reroll unwanted quests. 
+> Toggleable & custom 'unwanted' keywords to reroll
+- :money_with_wings: `Cash transfer` - transfer alts' balance to main account 
+> Toggleable & custom transfer percentage, minimum bal left, frequency of transfer.
+- :pager:  `Webhook` - custom webhook links for pokemons 
+> Toggleable & bot names concealable from display
+- :satellite: `Notifications` - sends **cross-platform** notifications on encounters
+> Only Toggleable for now, will add more customizability
+- :pushpin: `Pins` - allow rare mons pinning in channels 
+> Toggleable & unwanted rarities blacklist-able)
+> Eg: blacklisting Legendary pokemons from being pinned.
+- :electric_plug: `Fallback` - (Revamped) 'Plan B' balls that will be thrown if bot doesn't have the initial ball
+> Non-toggleable, but now retries `_retries` times (customizable) 
+> **Changed from previous versions:** now retries more than 2 times, has less configs to manage, uses profile-specific ball buy configs instead of global
+- :hourglass: `Cooldowns` - Customizable cooldowns
+> **Mode-specific**, customizable cooldowns for `hunt` `fish` `battle` `swap` `explore` queue jobs & intermission (duration between dif commands)
 
- . . .
-```
-> Full changelog available @ [versions.txt](https://github.com/fuwu99/yugen/blob/main/versions.txt)
+## QOL (Quality of Life) :shaved_ice: 
+- Graceful `Ctrl+C` exit handler (waits for all commands to finish)
+- :shopping_bags: `Shop` Automatically buys missing balls
+- :frame_photo: `User` Set bot's **HYPESQUAD house** & custom **user activity**
+> Toggleable & fully customizable User activity presence
+- :notebook: `Checklist` - scrapes checklist to get `;daily` `;swap` `;hunt` `;catchbot` `;quest`
+> Individual checklist tasks toggleable & global checklisting toggleable
+- :mysteryegg~1:  `Tasks` - does player tasks `;egg` `;lb` `;grazz` `;repel` `;r d`
+> Individual tasks toggleable & global tasks toggleable. `amount` parameters for commands like `;lb` `;grazz` `;repel` also customizable
+- :microscope: `Research` - does `;res ex relics` `;res ex x_fossil` automatically.
+- :egg: `Egg & Quest` automatically hatches and holds egg once hatchable & claim new quests automatically once available
+- :shield: `Anticrash` prevents bot from crashing & auto revives after specific amount of idle time
+> Idle time before reviving bot is customizable!
 
+## Configuration :tools: 
+- Out-of-the-box customizability: `profiles/` `app.json` `preferences.json`
+- `profiles/` - different configs for each account (separates new/aged/patreon bots)
+- `app.json` - global configs & behaviour settings that apply to all accounts `checklist` `tasks` `decoys` `breaks` `quest reroll` `cash transfer` `webhook` `notifications` `pins` etc.
+- `preferences.json` - ball choices for special encounters (low valued legendaries / collect pokemons & event pokemons / specific generation / release locks)
+
+## Captcha :magic_wand: 
+- Accurately solves captchas with 98-99% accuracy & retries if fail.
+- **Customizable delay** before sending captcha answer
+- Minor fixes to captcha solver algorithm
+- Custom safer browser **user-agent and headers** properties
+- Migrated to **API-like captcha endpoint**
+> Greatly reduces RAM and CPU usage, much more noticable for ppl who runs alot of accounts
+
+## Hunt :deer: 
+- User events handling: `new user profile` `temp-ban` `perm-ban` `bot update` etc.
+- **Catch limit handling**! Will do ;p once in a while even after catch limit to check for bot reset.
+- **Pins message, sends webhooks & notifications** to let user know about rare encounters.
+- Catches pokemons while taking **user preferences** and **pokemon value** into consideration!
+> Bot checks for custom pokemon -> custom generation -> low valued legendaries -> held items, and then checks for rarity
+- Sends a `;m view` after encountering rare pokemons to **imitate human behaviour**
+- Patreon-only mode to spam :greatball: at Common pokemons and ignore Item-ed Commons to get infinite Common streak
+- **Fallback ball usage** system to use other balls if initial one not present
+- Prints out **EXP, Pokecoins and Held item obtained** after catching pokemon
+> Depending on result, sends `;res ex relics` `;res ex x_fossil` `;quest` `;egg hatch`
+- **(Optional)** transfers cash to main account 
+- **(Optional)** sends `Decoys` and `Breaks`
+- Buy balls that has ran out (can be more than one type of ball)
+
+## Fish :fishing_pole_and_fish: 
+- User events handling: `new user profile` `temp-ban` `perm-ban` `bot update` etc.
+- **Pins message, sends webhooks & notifications** to let user know about rare fish.
+- Catches fish while taking **user preferences** and **fish value** into consideration!
+> Bot checks for custom fish then checks for rarity, if unregistered in database will still throw a specific ball.
+- Sends a `;m view` after encountering rare fish to **imitate human behaviour**
+- **Fallback ball usage** system to use other balls if initial one not present
+- Prints out **EXP, Fish tokens obtained** after catching fish
+> Depending on result, sends `;quest` `;egg hatch` 
+- **(Optional)** sends `Decoys` and `Breaks`
+- Buy balls that has ran out (can be more than one type of ball)
+
+## Battle :mechanical_arm: 
+- Modes: `npc` and `user` (self-explanatory)
+- Drivers: `auto` and `spam`
+> :robot:  `auto` - autobattles using custom AI
+> :brain: `spam` - spams one move
+- **Custom Script System** to battle specific npc IDs with a coded strategy.
+- Automatic cache of pokemons & moves, and get data from the API
+- Automatically uses the best damage-outputting move possible
+> Takes `Type effectiveness` `Move Power` `Stab` `Item bonus` `(special) Attack & Defense stats of both pokemons` into calculation
+- Automatically switches / forfeits if the requirements are met `HP percentages` `HP` (Customizable)
+- Renders :sparkles: Pretty :sparkles: Healthbar UIs with **Customizable** components
+- **(Optional)** Pokemon league completer mode that battles from npc 1 to last npc
+- **(Optional)** Battles a random npc from a set of user-defined npc ids.
+
+## Explore :map: 
+- **Explore limit handler** implemented.
+- Displays **steps taken** in an explore session
+- Send explore command for a random map taken from a customizable **user-specified list of maps**
+- Goes in a **random direction** if no pokemons are encountered.
+- Catches pokemons which takes **custom pokemons** into consideration
+- Takes 70+ steps in each explore session -> takes 2 and half hour to walk all 4k steps ~2.6k catches
+- **Fallback ball usage** system to use other balls if initial one not present
+- Stop session to buy balls that has ran out (can be more than one type of ball)
+
+## Swap :ticket: 
+- Warns user if bot doesn't have any swap tokens left
+- Swaps **material pokemons** specified by the user
+- Displays the Rarity & Name of the swapped and obtained pokemons
+- Displays remaining **swap material pokemon** & **swap tokens left**
 
