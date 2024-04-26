@@ -31,6 +31,7 @@
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
+<a href="#main-features">Full Features List (Changelogs)</a>
 * 🕷️ Automates everything a Pokemeow player does!
   - Hunting `(/pokemon)`
   - Fishing `(/fish spawn)`
@@ -106,7 +107,7 @@
 - Updated: `23/3/2024`
 - Version: `JS - 1.5.5`
 
-## General :ferris_wheel: 
+### General :ferris_wheel: 
 - Modes: `captcha` `hunt` `fish` `battle` `explore` `swap` 
 - Multiple modes **at once**
 - Multiple accounts **at once**
@@ -133,7 +134,7 @@
 - :hourglass: `Cooldowns` - Customizable cooldowns
 > **Mode-specific**, customizable cooldowns for `hunt` `fish` `battle` `swap` `explore` queue jobs & intermission (duration between dif commands)
 
-## QOL (Quality of Life) :shaved_ice: 
+### QOL (Quality of Life) :shaved_ice: 
 - Graceful `Ctrl+C` exit handler (waits for all commands to finish)
 - :shopping_bags: `Shop` Automatically buys missing balls
 - :frame_photo: `User` Set bot's **HYPESQUAD house** & custom **user activity**
@@ -147,13 +148,13 @@
 - :shield: `Anticrash` prevents bot from crashing & auto revives after specific amount of idle time
 > Idle time before reviving bot is customizable!
 
-## Configuration :tools: 
+### Configuration :tools: 
 - Out-of-the-box customizability: `profiles/` `app.json` `preferences.json`
 - `profiles/` - different configs for each account (separates new/aged/patreon bots)
 - `app.json` - global configs & behaviour settings that apply to all accounts `checklist` `tasks` `decoys` `breaks` `quest reroll` `cash transfer` `webhook` `notifications` `pins` etc.
 - `preferences.json` - ball choices for special encounters (low valued legendaries / collect pokemons & event pokemons / specific generation / release locks)
 
-## Captcha :magic_wand: 
+### Captcha :magic_wand: 
 - Accurately solves captchas with 98-99% accuracy & retries if fail.
 - **Customizable delay** before sending captcha answer
 - Minor fixes to captcha solver algorithm
@@ -161,7 +162,7 @@
 - Migrated to **API-like captcha endpoint**
 > Greatly reduces RAM and CPU usage, much more noticable for ppl who runs alot of accounts
 
-## Hunt :deer: 
+### Hunt :deer: 
 - User events handling: `new user profile` `temp-ban` `perm-ban` `bot update` etc.
 - **Catch limit handling**! Will do ;p once in a while even after catch limit to check for bot reset.
 - **Pins message, sends webhooks & notifications** to let user know about rare encounters.
@@ -176,7 +177,7 @@
 - **(Optional)** sends `Decoys` and `Breaks`
 - Buy balls that has ran out (can be more than one type of ball)
 
-## Fish :fishing_pole_and_fish: 
+### Fish :fishing_pole_and_fish: 
 - User events handling: `new user profile` `temp-ban` `perm-ban` `bot update` etc.
 - **Pins message, sends webhooks & notifications** to let user know about rare fish.
 - Catches fish while taking **user preferences** and **fish value** into consideration!
@@ -188,7 +189,7 @@
 - **(Optional)** sends `Decoys` and `Breaks`
 - Buy balls that has ran out (can be more than one type of ball)
 
-## Battle :mechanical_arm: 
+### Battle :mechanical_arm: 
 - Modes: `npc` and `user` (self-explanatory)
 - Drivers: `auto` and `spam`
 > :robot:  `auto` - autobattles using custom AI
@@ -202,7 +203,7 @@
 - **(Optional)** Pokemon league completer mode that battles from npc 1 to last npc
 - **(Optional)** Battles a random npc from a set of user-defined npc ids.
 
-## Explore :map: 
+### Explore :map: 
 - **Explore limit handler** implemented.
 - Displays **steps taken** in an explore session
 - Send explore command for a random map taken from a customizable **user-specified list of maps**
@@ -212,7 +213,7 @@
 - **Fallback ball usage** system to use other balls if initial one not present
 - Stop session to buy balls that has ran out (can be more than one type of ball)
 
-## Swap :ticket: 
+### Swap :ticket: 
 - Warns user if bot doesn't have any swap tokens left
 - Swaps **material pokemons** specified by the user
 - Displays the Rarity & Name of the swapped and obtained pokemons
