@@ -31,7 +31,7 @@
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
-<a href="#main-features">Full Features List (Changelogs)</a>
+<a href="#changelogs">Full Features List (Changelogs)</a>
 * 🕷️ Automates everything a Pokemeow player does!
   - Hunting `(/pokemon)`
   - Fishing `(/fish spawn)`
