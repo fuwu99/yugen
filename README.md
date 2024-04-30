@@ -104,8 +104,8 @@
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
 # Bot Features List
-- Updated: `23/3/2024`
-- Version: `JS - 1.5.5`
+- Updated: `30/4/2024`
+- Version: `v1.8.9`
 
 ### General :ferris_wheel: 
 - Modes: `captcha` `hunt` `fish` `battle` `explore` `swap` 
@@ -117,7 +117,7 @@
 > Toggleable & custom `chance` `weight`s with command variation & support for `18` common commands
 - :coffee:  `Breaks` - random breaks. 
 > Toggleable & custom `chance` `weight`s `duration`s with random offsets
-- :notepad_spiral: `Quest reroll` - reroll unwanted quests. 
+- 📋 `Quest reroll` - reroll unwanted quests. 
 > Toggleable & custom 'unwanted' keywords to reroll
 - :money_with_wings: `Cash transfer` - transfer alts' balance to main account 
 > Toggleable & custom transfer percentage, minimum bal left, frequency of transfer.
@@ -136,12 +136,12 @@
 
 ### QOL (Quality of Life) :shaved_ice: 
 - Graceful `Ctrl+C` exit handler (waits for all commands to finish)
-- :shopping_bags: `Shop` Automatically buys missing balls
-- :frame_photo: `User` Set bot's **HYPESQUAD house** & custom **user activity**
+- 🛍️ `Shop` Automatically buys missing balls
+- 📸 `User` Set bot's **HYPESQUAD house** & custom **user activity**
 > Toggleable & fully customizable User activity presence
 - :notebook: `Checklist` - scrapes checklist to get `;daily` `;swap` `;hunt` `;catchbot` `;quest`
 > Individual checklist tasks toggleable & global checklisting toggleable
-- :mysteryegg~1:  `Tasks` - does player tasks `;egg` `;lb` `;grazz` `;repel` `;r d`
+- 🐣  `Tasks` - does player tasks `;egg` `;lb` `;grazz` `;repel` `;r d`
 > Individual tasks toggleable & global tasks toggleable. `amount` parameters for commands like `;lb` `;grazz` `;repel` also customizable
 - :microscope: `Research` - does `;res ex relics` `;res ex x_fossil` automatically.
 - :egg: `Egg & Quest` automatically hatches and holds egg once hatchable & claim new quests automatically once available
