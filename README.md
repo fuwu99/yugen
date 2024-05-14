@@ -108,8 +108,8 @@
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
 # Bot Features List
-- Updated: `30/4/2024`
-- Version: `v1.8.9`
+- Updated: `14/5/2024`
+- Version: `v1.9.3`
 
 ### General :ferris_wheel: 
 - Modes: `captcha` `hunt` `fish` `battle` `explore` `swap` 
@@ -139,6 +139,7 @@
 > **Mode-specific**, customizable cooldowns for `hunt` `fish` `battle` `swap` `explore` queue jobs & intermission (duration between dif commands)
 
 ### QOL (Quality of Life) :shaved_ice: 
+- Track accounts' stats after exiting, including coins/fishing tokens earned/spent, pokemons caught, items obtained, etc.
 - Graceful `Ctrl+C` exit handler (waits for all commands to finish)
 - 🛍️ `Shop` Automatically buys missing balls
 - 📸 `User` Set bot's **HYPESQUAD house** & custom **user activity**
@@ -219,7 +220,7 @@
 
 ### Swap :ticket: 
 - Warns user if bot doesn't have any swap tokens left
-- Swaps **material pokemons** specified by the user
+- Swaps **material pokemons** specified by the user, automatically switches to next material if one runs out
 - Displays the Rarity & Name of the swapped and obtained pokemons
 - Displays remaining **swap material pokemon** & **swap tokens left**
 
