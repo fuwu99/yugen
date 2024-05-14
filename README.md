@@ -31,7 +31,7 @@
 
 ## Bot Preview
 * Being added!
-* [Look at other people's luck!](https://github.com/fuwu99/yugen/upload/main/assets/rare)
+* [Our clients' luck!](https://github.com/fuwu99/yugen/tree/main/assets/rare)
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
