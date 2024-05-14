@@ -29,6 +29,10 @@
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
 * Status: 🟢 Working!
 
+## Bot Preview
+* Being added!
+* [Look at other people's luck!](https://github.com/fuwu99/yugen/upload/main/assets/rare)
+
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
 <a href="#changelogs">Full Features List (Changelogs)</a>
