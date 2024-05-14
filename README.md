@@ -207,7 +207,7 @@
 - **(Optional)** Pokemon league completer mode that battles from npc 1 to last npc
 - **(Optional)** Battles a random npc from a set of user-defined npc ids.
 
-### Explore :map: 
+### Explore 🗺️
 - **Explore limit handler** implemented.
 - Displays **steps taken** in an explore session
 - Send explore command for a random map taken from a customizable **user-specified list of maps**
