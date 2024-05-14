@@ -158,7 +158,7 @@
 - `app.json` - global configs & behaviour settings that apply to all accounts `checklist` `tasks` `decoys` `breaks` `quest reroll` `cash transfer` `webhook` `notifications` `pins` etc.
 - `preferences.json` - ball choices for special encounters (low valued legendaries / collect pokemons & event pokemons / specific generation / release locks)
 
-### Captcha :magic_wand: 
+### Captcha 🤖
 - Accurately solves captchas with 98-99% accuracy & retries if fail.
 - **Customizable delay** before sending captcha answer
 - Minor fixes to captcha solver algorithm
