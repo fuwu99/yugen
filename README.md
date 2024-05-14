@@ -10,7 +10,7 @@
 <p align="center">
   <a href='https://github.com/fuwu99/yugen' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Yugen-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=black'/></a>
   <a href='https://github.com/fuwu99/' target="_blank"><img alt='Github' src='https://img.shields.io/badge/fuwu99-100000?style=for-the-badge&logo=Github&logoColor=white&labelColor=black&color=black'/></a>
-  <a href='https://www.python.org/' target="_blank"><img alt='python' src='https://img.shields.io/badge/python-100000?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=black'/></a>
+  <a href='https://www.python.org/' target="_blank"><img alt='js' src='https://img.shields.io/badge/javascript-100000?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black&color=black'/></a>
   </a>
 </p>
 
