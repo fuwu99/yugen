@@ -72,7 +72,7 @@
     * Battle script system for special event NPCs!
   - User commands rework!
   - Inactivity detector & better error handling!
-  - [NEW] Anti-crasher
+  - Anti-crasher
 
 ## Pricings
 ![banner-price](https://github.com/fuwu99/yugen/blob/main/assets/banner/pricings.png)
