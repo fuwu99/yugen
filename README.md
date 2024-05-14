@@ -32,10 +32,10 @@
 ## Bot Preview
 * Being added!
 * [Our clients' luck!](https://github.com/fuwu99/yugen/tree/main/assets/rare)
+* <a href="#changelogs">Full Features List (Changelogs)</a>
 
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
-<a href="#changelogs">Full Features List (Changelogs)</a>
 * 🕷️ Automates everything a Pokemeow player does!
   - Hunting `(/pokemon)`
   - Fishing `(/fish spawn)`
