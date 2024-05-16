@@ -61,7 +61,7 @@
   - Battle AI is now part of `battle`!
   - Multi upgrade is now free!
 * 📡 Full code revamp & game-changing features added!
-  - WebUI 🖥️ (upgrade) 
+  - Displays session stats after exit!
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
   - Battle revamp:
@@ -115,6 +115,7 @@
 - Multiple accounts **at once**
 - **Profiled bot accounts** w/ different settings 
 - **Grouped accounts** to run multiple with a keyword
+- Session stats are shown after exiting, beautifully formatted and provides extra commands to filter for rare `items` `pokemons` or just count of general stats `encounters` `catches` `battles` `swaps`
 - :strawberry: `Decoys` - random commands. 
 > Toggleable & custom `chance` `weight`s with command variation & support for `18` common commands
 - :coffee:  `Breaks` - random breaks. 
