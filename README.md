@@ -57,6 +57,7 @@
 * 🔧 Extensive & individualized configuration system!
 * 🧈 Buttery-smooth execution & easy installation
 * 🔔 Sends webhooks & windows notifications to let you know about events!
+* 💞 Dev who always actively listens to customers' needs and recommendations on improving the bot.
 * ✨ Previously premium features are now integrated into main ones!
   - Battle AI is now part of `battle`!
   - Multi upgrade is now free!
