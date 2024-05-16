@@ -26,6 +26,7 @@
 
 * This is a selfbot project for a discord bot called Pokemeow, made in JS!
 * This is a **paid** product, and there's no demo!
+* Built with customizability and quality in mind, recommended for people who are serious about botting Meow and plan to profit from it.
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
 * Status: 🟢 Working!
 
@@ -65,6 +66,7 @@
   - Displays session stats after exit!
   - Queue system -> Multiple modes at once `(/pokemon, /fish spawn, /battle)`
   - Fully functional `egg / quest claim` handler!
+  - Quest reroller for unwanted quests, or reroll until a certain quest is achieved.
   - Battle revamp:
     * Autobattler (AI).
     * Blazing-fast API calls!
@@ -103,6 +105,10 @@
 * How does the active discount work?
   - Referral code: if you have someone use your referral code to purchase, you get a discount on 3 different levels: 1 refer, 3 refers and 5 refers.
   - Stack: for example if you certify for two 5% discounts, you get a total of 5% + 5% = 10% discount of your purchases.
+* It's too expensive?
+  - It's true that some of the bots on the internet are either free/cheap, but they're mostly low-effort bots which can not provide you with the features that Yugen have.
+  - A lot of 'premium' features on this bot are already included, and updates are free forever and requires no extra fees.
+  - If you're just want to bot Pokemeow for fun, I don't recommend buying our bot.
 
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
