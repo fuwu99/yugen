@@ -151,7 +151,7 @@
 - :shield: `Anticrash` prevents bot from crashing & auto revives after specific amount of idle time
 > Idle time before reviving bot is customizable!
 
-### Configuration :tools: 
+### Configuration 🛠️
 - Out-of-the-box customizability: `profiles/` `app.json` `preferences.json`
 - `profiles/` - different configs for each account (separates new/aged/patreon bots)
 - `app.json` - global configs & behaviour settings that apply to all accounts `checklist` `tasks` `decoys` `breaks` `quest reroll` `cash transfer` `webhook` `notifications` `pins` etc.
