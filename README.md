@@ -114,8 +114,8 @@
 ## Changelogs
 ![banner-clgs](https://github.com/fuwu99/yugen/blob/main/assets/banner/changelogs.png)
 # Bot Features List
-- Updated: `14/5/2024`
-- Version: `v1.9.3`
+- Updated: `07/09/2024`
+- Version: `v3.0.7`
 
 ### General :ferris_wheel: 
 - Modes: `captcha` `hunt` `fish` `battle` `explore` `swap` 
