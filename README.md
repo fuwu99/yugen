@@ -38,6 +38,7 @@
 ## Main Features
 ![banner-main](https://github.com/fuwu99/yugen/blob/main/assets/banner/main-features.png)
 * 🕷️ Automates everything a Pokemeow player does!
+  - [NEW] Spamming commands in multiple channels instead of just one!
   - Hunting `(/pokemon)`
   - Fishing `(/fish spawn)`
   - Battling `(/battle)`
