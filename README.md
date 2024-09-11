@@ -28,7 +28,7 @@
 * This is a **paid** product, and there's no demo!
 * Built with customizability and quality in mind, recommended for people who are serious about botting Meow and plan to profit from it.
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
-* Status: 🟢 Working!!
+* Status: 🟢 Working!
 
 ## Bot Preview
 * Being added!
