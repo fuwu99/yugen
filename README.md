@@ -52,7 +52,7 @@
   - Player tasks `(/egg, /lootbox, /grazz, /repel, /release duplicate)`
   - Research items exchange `(/research exchange)`
 * 🥋 Accurate human imitation!
-  - Custom browser user-agent!
+  - Custom browser user-agent!!
   - Completely random interaction times
   - Coffee breaks ☕ with random durations
   - Random commands `(/pc, /stats, ...)`
