@@ -47,6 +47,8 @@
   - Purchase balls `(/shop buy)`
   - Automatic release locking `(/release lock)`
   - Daily hunt registering & handling `;hunt`
+  - [NEW] Factions! `(/faction)`
+  - [NEW] Events (spook)
   - Event tickets `(/event buy)`
   - Checklist tasks `(/daily, /hunt, /quest, /catchbot, /swap)`
   - Player tasks `(/egg, /lootbox, /grazz, /repel, /release duplicate)`
