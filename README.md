@@ -24,7 +24,7 @@
 
 <p align="center">♡<br></p>
 
-* This is a selfbot project for a discord bot called Pokemeow, made in JS!
+* This is a selfbot project for a discord bot called Pokemeow!
 * This is a **paid** product, and there's no demo!
 * Built with customizability and quality in mind, recommended for people who are serious about botting Meow and plan to profit from it.
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
