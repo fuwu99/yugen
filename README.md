@@ -17,7 +17,7 @@
 <p align="center">
   <a href="#main-features">Features</a> •
   <a href="#pricings">Pricings</a> •
-  <a href="#selfbot-wiki">Wikii</a> •
+  <a href="#selfbot-wiki">Wiki</a> •
   <a href="#faq">FAQ</a> •
   <a href="#changelogs">Changelog</a>
 </p>
