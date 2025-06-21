@@ -18,7 +18,7 @@
   <a href="#main-features">Features</a> •
   <a href="#pricings">Pricings</a> •
   <a href="#selfbot-wiki">Wiki</a> •
-  <a href="#faq">FAQ</a> •
+  <a href="#faq">FAQs</a> •
   <a href="#changelogs">Changelog</a>
 </p>
 
