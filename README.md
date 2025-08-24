@@ -25,7 +25,7 @@
 <p align="center">♡<br></p>
 
 * This is a selfbot project for a discord bot called Pokemeow!
-* This is a **paid** product, and there's no demo!
+* This is a **paid** product! and there's no demo!
 * Built with customizability and quality in mind, recommended for people who are serious about botting Meow and plan to profit from it.
 * Been in business since 2022!
 * Reimagined from [Primrose](https://github.com/fuwu99/primrose-pokemeow).
