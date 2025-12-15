@@ -96,7 +96,7 @@
 > Note: Captcha solver is now readily included in every purchase!
 * Current discounts! (they STACK!) (Explained in [FAQs](#faq))
   - `[ACTIVE]` Referral codes (5% | 7.5% | 10% off)
-> Order via [Facebook](https://www.facebook.com/cynthiavo11/)
+> Order via Discord: @ilywaf
 
 ## Selfbot Wiki
 ![banner-wiki](https://github.com/fuwu99/yugen/blob/main/assets/banner/selfbot-wiki.png)
